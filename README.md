@@ -1,2 +1,2 @@
-# s33
-Arris S33 management page workaround
+# s33 arp replier
+Workaround for accessing the Arris S33 management page.
